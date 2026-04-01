@@ -7,15 +7,12 @@ This project focuses on predicting fish toxicity using Quantitative Structure-Ac
 The goal of this project is to analyze chemical data and predict toxicity levels in fish using various machine learning models.
 
 ##  Live Demo
-
- Try the app here:  
-https://qsar-fish-toxicity-prediction-gncxgdb5yrchq6hqmwbybzx.streamlit.app
+Try the app here:  
+https://your-working-link.streamlit.app
 
 ##  App Preview
-
-###  images
-![image](page1.png)
-![image](page2.png)
+![Upload Screen](page1.png)
+![Prediction Results](page2.png)
 
 ##  Technologies Used
 - Python
