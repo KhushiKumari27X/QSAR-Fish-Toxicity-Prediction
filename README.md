@@ -6,6 +6,18 @@ This project focuses on predicting fish toxicity using Quantitative Structure-Ac
 ##  Overview
 The goal of this project is to analyze chemical data and predict toxicity levels in fish using various machine learning models.
 
+##  Live Demo
+
+ Try the app here:  
+https://qsar-fish-toxicity-prediction-gncxgdb5yrchq6hqmwbybzx.streamlit.app
+
+## 📸 App Preview
+
+###  Upload Dataset
+![Upload Screen](page1.png)
+###  Prediction Results
+![Results Screen](page2.png)
+
 ##  Technologies Used
 - Python
 - Pandas
@@ -13,6 +25,14 @@ The goal of this project is to analyze chemical data and predict toxicity levels
 - Matplotlib
 - Seaborn
 - Scikit-learn
+
+##  Features
+
+- Upload CSV dataset
+- View dataset preview
+- Predict fish toxicity
+- Visualize results
+- Download prediction output
 
 ##  Workflow
 1. Data Analysis
@@ -34,5 +54,5 @@ The goal of this project is to analyze chemical data and predict toxicity levels
 - Mean Squared Error (MSE)
 - R² Score
 
-## 🎯 Objective
+##  Objective
 To build an accurate predictive model for fish toxicity using QSAR dataset and compare performance of different ML algorithms.
