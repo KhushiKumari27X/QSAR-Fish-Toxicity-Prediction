@@ -11,12 +11,11 @@ The goal of this project is to analyze chemical data and predict toxicity levels
  Try the app here:  
 https://qsar-fish-toxicity-prediction-gncxgdb5yrchq6hqmwbybzx.streamlit.app
 
-## 📸 App Preview
+##  App Preview
 
-###  Upload Dataset
-![Upload Screen](page1.png)
-###  Prediction Results
-![Results Screen](page2.png)
+###  images
+![image](page1.png)
+![image](page2.png)
 
 ##  Technologies Used
 - Python
