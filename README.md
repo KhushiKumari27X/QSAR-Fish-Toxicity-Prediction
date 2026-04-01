@@ -8,7 +8,7 @@ The goal of this project is to analyze chemical data and predict toxicity levels
 
 ##  Live Demo
 Try the app here:  
-https://your-working-link.streamlit.app
+https://qsar-fish-toxicity-prediction-gncxgdb5yrchq6hqmwybzx.streamlit.app/
 
 ##  App Preview
 ![Upload Screen](page1.png)
